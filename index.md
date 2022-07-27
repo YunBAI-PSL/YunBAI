@@ -31,8 +31,8 @@ on Advanced Education, Management and Information Technology*.
 
 * **July, 2022.** Oral presentation titled **Integrating text analysis in electricity
 load forecasting: initial findings from UK** at the [42nd International Symposium on Forecasting](https://isf.forecasters.org), Oxford, UK.
-* **June, 2022.** Oral presentation titled **Big Data for the Electric Power System with 
-Focus on Demand Forecasting** at the PERSEE(Centre for Processes, Renewable Energies and Energy Systems) PhD seminar, Sophia Antipolis Cedex, France.
+* **June, 2022.** Oral presentation titled **Big data for the electric power system 
+with focus on demand forecasting** at the PERSEE(Centre for Processes, Renewable Energies and Energy Systems) PhD seminar, Sophia Antipolis Cedex, France.
 * **March, 2022.** Oral presentation titled **Big data for the electric power system 
 with focus on demand forecasting** at the 1ère rencontre doctorants-industriels dans le domaine des smart grids, Virtual.
 * **June, 2021.** Oral presentation titled **Exploring the social influence of the Kaggle virtual community on the M5 competition** at the [41st International Symposium on Forecasting](https://isf.forecasters.org/wp-content/uploads/ISF-2021-program-agenda.pdf), Virtual.
