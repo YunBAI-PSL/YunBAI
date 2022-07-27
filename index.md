@@ -19,7 +19,7 @@ Now I'm working on electricity load forecasting integrating with textual feature
 Electrical, Mechanical and Computer Engineering*.
 * Y. Bai, S. Jia, M. Wu (2020). [InfluenceRank: An Improved Online Social Influence Model](https://www.atlantis-press.com/proceedings/aemit-20/125942339). *2020 International Conference 
 on Advanced Education, Management and Information Technology*.
-* Y. Bai, S. Jia, S. Wang, B. Tan (2020). [Customer loyalty improves the effectiveness of recommender systems based on complex network](https://www.mdpi.com/67170). *Information*.
+* Y. Bai, S. Jia, S. Wang, B. Tan (2020). [Customer loyalty improves the effectiveness of recommender systems based on complex network](https://www.mdpi.com/2078-2489/11/3/171). *Information*.
 * Y. Bai, S. Jia, X. Li (2018). [Research and application of time series algorithms in centralized purchasing data](https://arxiv.org/abs/1911.00449) *2018 14th International Conference on Industrial Management*.
 
 #### Preprints
