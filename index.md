@@ -15,13 +15,12 @@ Now I'm working on electricity load forecasting integrating with textual feature
 
 * Y. Bai #, X. Li #, H. Yu, S. Jia (2022). [Crude oil price forecasting incorporating news text](https://www.sciencedirect.com/science/article/pii/S0169207021001060). *International Journal of Forecasting*.
 * X. Li #, Y. Bai #, Y. Kang* (2021). [Exploring the social influence of the Kaggle virtual community on the M5 competition](https://www.sciencedirect.com/science/article/pii/S0169207021001643). *International Journal of Forecasting*.
-* Y. Bai, S. Jia, L. Chen (2020). [Topic evolution analysis of covid-19 news articles]{https://iopscience.iop.org/article/10.1088/1742-6596/1601/5/052009/meta}. *2020 4th International Conference on 
+* Y. Bai, S. Jia, L. Chen (2020). [Topic evolution analysis of covid-19 news articles](https://iopscience.iop.org/article/10.1088/1742-6596/1601/5/052009/meta). *2020 4th International Conference on 
 Electrical, Mechanical and Computer Engineering*.
-* Y. Bai, S. Jia, M. Wu (2020). [InfluenceRank: An Improved Online Social Influence Model]{https://www.atlantis-press.com/proceedings/aemit-20/125942339}. *2020 International Conference 
+* Y. Bai, S. Jia, M. Wu (2020). [InfluenceRank: An Improved Online Social Influence Model](https://www.atlantis-press.com/proceedings/aemit-20/125942339). *2020 International Conference 
 on Advanced Education, Management and Information Technology*.
-* Y. Bai, S. Jia, S. Wang, B. Tan (2020). [Customer loyalty improves the effectiveness of recommender systems based on complex network]{https://www.mdpi.com/671702}. *Information*.
-* Y. Bai, S. Jia, X. Li (2018). [Research and application of time series algorithms in centralized purchasing data]{https://arxiv.org/abs/1911.00449} *2018 14th 
-International Conference on Industrial Management*.
+* Y. Bai, S. Jia, S. Wang, B. Tan (2020). [Customer loyalty improves the effectiveness of recommender systems based on complex network](https://www.mdpi.com/67170). *Information*.
+* Y. Bai, S. Jia, X. Li (2018). [Research and application of time series algorithms in centralized purchasing data](https://arxiv.org/abs/1911.00449) *2018 14th International Conference on Industrial Management*.
 
 #### Preprints
 
