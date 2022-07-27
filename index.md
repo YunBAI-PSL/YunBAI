@@ -2,8 +2,8 @@
 
 I got a Bachelor Degree of Statistics and a Master Degree of Management Science and Engineering from [Beihang Univerisity](https://ev.buaa.edu.cn) in 2018 and 2022.
 
-**Since Feb 2022** I am a PhD Student in Energy Forecasting in [Mines Paris | PSL]{https://www.minesparis.psl.eu} with the scholarship from China Scholarship Council (CSC).
-My supervisor and co-supervisor are [Andrea Michiorri]{https://www.minesparis.psl.eu/Services/Annuaire/andrea-michiorri} and [Simon Camal]{https://www.minesparis.psl.eu/Services/Annuaire/simon-camal}.
+**Since Feb 2022** I am a PhD Student in Energy Forecasting in [Mines Paris | PSL](https://www.minesparis.psl.eu) with the scholarship from China Scholarship Council (CSC).
+My supervisor and co-supervisor are [Andrea Michiorri](https://www.minesparis.psl.eu/Services/Annuaire/andrea-michiorri) and [Simon Camal](https://www.minesparis.psl.eu/Services/Annuaire/simon-camal).
 
 
 ## Research
