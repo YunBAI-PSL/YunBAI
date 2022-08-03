@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 is_user_page: false
 title: Yun BAI
+description: 
 show_downloads: false
 logo: /docs/photo.png
 sitemap: true
