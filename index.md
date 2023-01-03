@@ -28,7 +28,7 @@ on Advanced Education, Management and Information Technology*.
 
 ## Competitions
 
-* **November - December, 2022** We obtained **1st from 78 teams** in the track H of the [qualifying match](http://blog.drhongtao.com/2022/11/bigdeal-challenge-2022-qualifying-match.html) and **5th from 14 teams** of the [final leaderboard](http://blog.drhongtao.com/2022/12/bigdeal-challenge-2022-final-leaderboard.html) in BigDEAL Challenge 2022 for peak load forecasting.
+* **November - December, 2022** He obtained with A.Stratigakos and G.Tian **1st from 78 teams** in the track H of the [qualifying match](http://blog.drhongtao.com/2022/11/bigdeal-challenge-2022-qualifying-match.html) and **5th from 14 teams** of the [final leaderboard](http://blog.drhongtao.com/2022/12/bigdeal-challenge-2022-final-leaderboard.html) in BigDEAL Challenge 2022 for peak load forecasting.
 
 ## Communications
 
