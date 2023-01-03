@@ -2,7 +2,7 @@
 
 Yun Bai received the bachelor degree of Statistics and the master degree of Management Science and Engineering from [Beihang Univerisity](https://ev.buaa.edu.cn), Beijing, China in 2018 and 2022.
 
-Since 2022, he has been with the Center for Processes, Renewable Energies and Energy Systems (PERSEE), MINES Paris, PSL University [Mines Paris | PSL](https://www.minesparis.psl.eu) in Sophia-Antipolis, France with the scholarship from China Scholarship Council (CSC).
+Since 2022, he has been a doctoral candidate of the Center for Processes, Renewable Energies and Energy Systems (PERSEE), [MINES Paris, PSL University](https://www.minesparis.psl.eu) in Sophia-Antipolis, France with the scholarship from China Scholarship Council (CSC).
 His supervisor and co-supervisor are [Andrea Michiorri](https://www.minesparis.psl.eu/Services/Annuaire/andrea-michiorri) and [Simon Camal](https://www.minesparis.psl.eu/Services/Annuaire/simon-camal).
 
 
