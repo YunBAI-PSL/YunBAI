@@ -24,6 +24,7 @@ on Advanced Education, Management and Information Technology*.
 
 #### Preprints
 
+* Y. Bai, S. Camal, A. Michiorri (2023). [A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis] (https://arxiv.org/abs/2301.07535).
 * Y. Bai, G. Tian, Y. Kang* , S. Jia (2021). [A hybrid ensemble method with negative correlation learning for regression](https://arxiv.org/abs/2104.02317).
 
 ## Competitions
