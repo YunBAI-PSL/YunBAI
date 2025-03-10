@@ -13,6 +13,7 @@ Now he is working on electricity load forecasting integrating with textual featu
 
 #### Publications
 
+* Y. Bai, S. Camal, A. Michiorri (2024). [News and load: A quantitative exploration of natural language processing applications for forecasting day-ahead electricity system demand](https://ieeexplore.ieee.org/abstract/document/10418518).
 * Y. Bai, G. Tian, Y. Kang* , S. Jia (2023). [A hybrid ensemble method with negative correlation learning for regression](https://arxiv.org/abs/2104.02317). *Machine Learning*.
 * Y. Bai #, X. Li #, H. Yu, S. Jia (2022). [Crude oil price forecasting incorporating news text](https://www.sciencedirect.com/science/article/pii/S0169207021001060). *International Journal of Forecasting*.
 * X. Li #, Y. Bai #, Y. Kang* (2022). [Exploring the social influence of the Kaggle virtual community on the M5 competition](https://www.sciencedirect.com/science/article/pii/S0169207021001643). *International Journal of Forecasting*.
@@ -25,7 +26,7 @@ on Advanced Education, Management and Information Technology*.
 
 #### Preprints
 
-* Y. Bai, S. Camal, A. Michiorri (2023). [A Quantitative Exploration of Natural Language Processing Applications for Electricity Demand Analysis](https://arxiv.org/abs/2301.07535).
+* Y. Bai, S. Camal, A. Michiorri (2024). [Investigation of the Impact of Economic and Social Factors on Energy Demand through Natural Language Processing](https://arxiv.org/abs/2406.06641).
 
 ## Competitions
 
@@ -33,6 +34,8 @@ on Advanced Education, Management and Information Technology*.
 
 ## Communications
 
+* **July, 2024.** Oral presentation titled **News and Load: Quantification of Economic and Social Drivers behind Regional Electricity Demand** at the  [44th International Symposium on Forecasting](https://isf.forecasters.org), Dijon, France.
+* **September, 2023.** Oral presentation titled **Electricity Demand Forecasting through Natural Language Processing with Long Short-Term Memory Networks** at the [2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)](https://ieeexplore.ieee.org/abstract/document/10408499), Grenoble, France.
 * **July, 2022.** Oral presentation titled **Integrating text analysis in electricity
 load forecasting: initial findings from UK** at the [42nd International Symposium on Forecasting](https://isf.forecasters.org), Oxford, UK.
 * **June, 2022.** Oral presentation titled **Big data for the electric power system 
