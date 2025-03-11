@@ -13,7 +13,7 @@ Now he is working on electricity load forecasting integrating with textual featu
 
 #### Publications
 
-* Y. Bai, S. Camal, A. Michiorri (2024). [News and load: A quantitative exploration of natural language processing applications for forecasting day-ahead electricity system demand](https://ieeexplore.ieee.org/abstract/document/10418518).
+* Y. Bai, S. Camal, A. Michiorri (2024). [News and load: A quantitative exploration of natural language processing applications for forecasting day-ahead electricity system demand](https://ieeexplore.ieee.org/abstract/document/10418518). *IEEE Transactions on Power Systems*.
 * Y. Bai, G. Tian, Y. Kang* , S. Jia (2023). [A hybrid ensemble method with negative correlation learning for regression](https://arxiv.org/abs/2104.02317). *Machine Learning*.
 * Y. Bai #, X. Li #, H. Yu, S. Jia (2022). [Crude oil price forecasting incorporating news text](https://www.sciencedirect.com/science/article/pii/S0169207021001060). *International Journal of Forecasting*.
 * X. Li #, Y. Bai #, Y. Kang* (2022). [Exploring the social influence of the Kaggle virtual community on the M5 competition](https://www.sciencedirect.com/science/article/pii/S0169207021001643). *International Journal of Forecasting*.
